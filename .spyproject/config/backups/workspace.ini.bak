@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['C:\\Users\\senaa\\.spyder-py3\\temp.py', 'passes_last_before_shot_ALL_MATCHES.csv', 'pass_within_15s_of_shot.csv', 'passes_within_15s_of_shot.py', '.gitignore']
+
+[main]
+version = 0.2.0
+recent_files = []
+

@@ -1,0 +1,5 @@
+matches.parquet
+minutes.parquet
+players.parquet
+teams.parquet
+event_data/
