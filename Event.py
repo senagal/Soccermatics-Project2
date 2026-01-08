@@ -1,61 +1,40 @@
 import json
-import pandas as pd
+import pprint
 
 file_path = "event_data/5588080.json"
 
+# Load JSON
 with open(file_path, encoding="utf-8") as f:
     data = json.load(f)
 
-events = data["events"]
+events = data.get("events", [])
+print(f"Number of events in this file: {len(events)}\n")
 
-shots_rows = []
-
+# Find first shot event
+shot_event = None
 for event in events:
     if event.get("shot") is not None:
+        shot_event = event
+        break
 
-        location = event.get("location", {})
-
-        row = {
-            "eventId": event.get("id"),
-            "matchId": event.get("matchId"),
-            "period": event.get("matchPeriod"),
-            "minute": event.get("minute"),
-            "second": event.get("second"),
-            "teamId": event.get("team", {}).get("id"),
-            "playerId": event.get("player", {}).get("id"),
-            "x": location.get("x"),
-            "y": location.get("y"),
-        }
-
-        shot = event["shot"]
-
-        row["isGoal"] = shot.get("isGoal")
-
-        # Robust bodyPart extraction
-        body_part = shot.get("bodyPart")
-        if isinstance(body_part, dict):
-            row["bodyPart"] = body_part.get("name")
-        else:
-            row["bodyPart"] = body_part  # might already be a string or None
-
-        # Robust shotType extraction
-        shot_type = shot.get("type")
-        if isinstance(shot_type, dict):
-            row["shotType"] = shot_type.get("name")
-        else:
-            row["shotType"] = shot_type
-
-        shots_rows.append(row)
-
-# Create DataFrame
-shots_df = pd.DataFrame(shots_rows)
-
-pd.set_option("display.max_columns", None)
-pd.set_option("display.width", None)
-
-print(shots_df.head())
-print("\nTotal shots:", len(shots_df))
-
-# Save to CSV
-shots_df.to_csv("match_5588080_shots.csv", index=False)
-print("\nSaved match_5588080_shots.csv")
+if shot_event:
+    print("Keys in a shot event:")
+    print(list(shot_event.keys()))
+    print("\nFull shot event structure (pretty-printed):")
+    pprint.pprint(shot_event)
+    
+    print("\nKeys inside the 'shot' field:")
+    print(list(shot_event['shot'].keys()))
+    print("\n'outcome' subfield in shot (if exists):")
+    if shot_event['shot'].get("outcome"):
+        pprint.pprint(shot_event['shot']['outcome'])
+    else:
+        print("No outcome field found in this shot")
+    
+    print("\n'subtype' subfield in shot (if exists):")
+    if shot_event['shot'].get("subtype"):
+        pprint.pprint(shot_event['shot']['subtype'])
+    else:
+        print("No subtype field found in this shot")
+else:
+    print("No shot events found in this file.")
