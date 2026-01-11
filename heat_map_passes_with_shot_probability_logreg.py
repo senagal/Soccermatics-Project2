@@ -24,19 +24,43 @@ Y_LEFT, Y_RIGHT = 37, 63
 def compute_features(df):
     df = df.copy()
 
+    # ===== DISTANCE TO GOAL =====
+    df["dist_to_goal_start"] = np.sqrt(
+        (X_GOAL - df["startX"])**2 +
+        (Y_CENTER - df["startY"])**2
+    )
+    df["log_dist_to_goal_start"] = np.log1p(df["dist_to_goal_start"])
+
     df["dist_to_goal_end"] = np.sqrt(
         (X_GOAL - df["endX"])**2 +
         (Y_CENTER - df["endY"])**2
     )
     df["log_dist_to_goal_end"] = np.log1p(df["dist_to_goal_end"])
 
-    angle_left = np.arctan2(Y_LEFT - df["endY"], X_GOAL - df["endX"])
-    angle_right = np.arctan2(Y_RIGHT - df["endY"], X_GOAL - df["endX"])
-    df["goal_angle_end"] = np.abs(angle_right - angle_left)
+    # ===== GOAL ANGLES =====
+    angle_left_start = np.arctan2(Y_LEFT - df["startY"], X_GOAL - df["startX"])
+    angle_right_start = np.arctan2(Y_RIGHT - df["startY"], X_GOAL - df["startX"])
+    df["goal_angle_start"] = np.abs(angle_right_start - angle_left_start)
+
+    angle_left_end = np.arctan2(Y_LEFT - df["endY"], X_GOAL - df["endX"])
+    angle_right_end = np.arctan2(Y_RIGHT - df["endY"], X_GOAL - df["endX"])
+    df["goal_angle_end"] = np.abs(angle_right_end - angle_left_end)
+
+    # ===== GOAL-WEIGHTED CENTRALITY =====
+    df["goal_weighted_centrality_start"] = (
+        (1 - np.abs(df["startY"] - Y_CENTER) / Y_CENTER) *
+        (df["startX"] / X_GOAL)
+    )
 
     df["goal_weighted_centrality_end"] = (
         (1 - np.abs(df["endY"] - Y_CENTER) / Y_CENTER) *
         (df["endX"] / X_GOAL)
+    )
+
+    # ===== PASS DIRECTION =====
+    df["pass_direction"] = np.arctan2(
+        df["endY"] - df["startY"],
+        df["endX"] - df["startX"]
     )
 
     return df
@@ -85,11 +109,15 @@ y_vals = np.linspace(0, 100, 100)
 xx, yy = np.meshgrid(x_vals, y_vals)
 
 FEATURES = [
+    "log_dist_to_goal_start",
+    "goal_angle_start",
+    "goal_weighted_centrality_start",
     "log_dist_to_goal_end",
     "goal_angle_end",
     "goal_weighted_centrality_end",
-    "pass_direction"
+    "pass_direction",
 ]
+
 
 # =====================================================
 # HEATMAP 1 — PASS START LOCATION
@@ -143,3 +171,44 @@ plot_pitch_heatmap(
     "End X",
     "End Y"
 )
+# =====================================================
+# COMBINED MARGINAL EFFECT — START X vs END X
+# =====================================================
+
+x_vals = np.linspace(40, 100, 100)
+
+# --- Pass END X effect ---
+df_end = pd.DataFrame({
+    "startX": 60,
+    "startY": 50,
+    "endX": x_vals,
+    "endY": 50,
+})
+df_end = compute_features(df_end)
+X_end = scaler.transform(df_end[FEATURES])
+p_end = model.predict_proba(X_end)[:, 1]
+
+# --- Pass START X effect ---
+df_start = pd.DataFrame({
+    "startX": x_vals,
+    "startY": 50,
+    "endX": 70,
+    "endY": 50,
+})
+df_start = compute_features(df_start)
+X_start = scaler.transform(df_start[FEATURES])
+p_start = model.predict_proba(X_start)[:, 1]
+
+# --- Plot together ---
+plt.figure(figsize=(9,5))
+
+plt.plot(x_vals, p_end, label="Varying Pass END X", linewidth=2)
+plt.plot(x_vals, p_start, label="Varying Pass START X", linewidth=2, linestyle="--")
+
+plt.xlabel("X Location (towards opponent goal)")
+plt.ylabel("P(Shot within 15s)")
+plt.title("Marginal Effects of Pass Start vs Pass End Location")
+
+plt.legend()
+plt.grid(True)
+plt.show()

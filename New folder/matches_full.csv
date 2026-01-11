@@ -1,0 +1,381 @@
+match_id,competition_id,season_id,date,label,gameweek,home_team_id,away_team_id,home_team_name,away_team_name,home_team_score,away_team_score,status,home_coach_id,away_coach_id,competition,season
+5588368,364,189908,2025-04-16 20:30:00,"Newcastle United - Crystal Palace, 5-0",29,1613,1628,Newcastle United,Crystal Palace,5,0,Played,8934,753418,364,2024
+5588095,364,189908,2024-08-25 17:30:00,"Liverpool - Brentford, 2-0",2,1612,1669,Liverpool,Brentford,2,0,Played,753720,135095,364,2024
+5588282,364,189908,2025-01-15 20:30:00,"Everton - Aston Villa, 0-1",21,1623,1614,Everton,Aston Villa,0,1,Played,8235,3265,364,2024
+5588329,364,189908,2025-02-15 16:00:00,"West Ham United - Brentford, 0-1",25,1633,1669,West Ham United,Brentford,0,1,Played,51607,135095,364,2024
+5588443,364,189908,2025-05-19 21:00:00,"Brighton - Liverpool, 3-2",37,1651,1612,Brighton,Liverpool,3,2,Played,18554,753720,364,2024
+5588165,364,189908,2024-10-27 15:00:00,"Crystal Palace - Tottenham Hotspur, 1-0",9,1628,1624,Crystal Palace,Tottenham Hotspur,1,0,Played,753418,61546,364,2024
+5588275,364,189908,2025-01-05 17:30:00,"Liverpool - Manchester United, 2-2",20,1612,1611,Liverpool,Manchester United,2,2,Played,753720,743349,364,2024
+5588293,364,189908,2025-01-19 15:00:00,"Everton - Tottenham Hotspur, 3-2",22,1623,1624,Everton,Tottenham Hotspur,3,2,Played,8235,61546,364,2024
+5588202,364,189908,2024-12-01 14:30:00,"Chelsea - Aston Villa, 3-0",13,1610,1614,Chelsea,Aston Villa,3,0,Played,685043,3265,364,2024
+5588452,364,189908,2025-05-25 17:00:00,"Ipswich Town - West Ham United, 1-3",38,1634,1633,Ipswich Town,West Ham United,1,3,Played,447789,51607,364,2024
+5588134,364,189908,2024-09-28 16:00:00,"Everton - Crystal Palace, 2-1",6,1623,1628,Everton,Crystal Palace,2,1,Played,8880,753418,364,2024
+5588131,364,189908,2024-09-30 21:00:00,"Bournemouth - Southampton, 3-1",6,1659,1619,Bournemouth,Southampton,3,1,Played,575112,641939,364,2024
+5588153,364,189908,2024-10-20 17:30:00,"Liverpool - Chelsea, 2-1",8,1612,1610,Liverpool,Chelsea,2,1,Played,753720,685043,364,2024
+5588190,364,189908,2024-11-23 16:00:00,"Arsenal - Nottingham Forest, 3-0",12,1609,1642,Arsenal,Nottingham Forest,3,0,Played,743345,753313,364,2024
+5588198,364,189908,2024-11-25 21:00:00,"Newcastle United - West Ham United, 0-2",12,1613,1633,Newcastle United,West Ham United,0,2,Played,8934,134152,364,2024
+5588284,364,189908,2025-01-15 20:30:00,"Leicester City - Crystal Palace, 0-2",21,1631,1628,Leicester City,Crystal Palace,0,2,Played,584511,753418,364,2024
+5588303,364,189908,2025-01-26 15:00:00,"Crystal Palace - Brentford, 1-2",23,1628,1669,Crystal Palace,Brentford,1,2,Played,753418,135095,364,2024
+5588143,364,189908,2024-10-06 17:30:00,"Brighton - Tottenham Hotspur, 3-2",7,1651,1624,Brighton,Tottenham Hotspur,3,2,Played,18554,61546,364,2024
+5588151,364,189908,2024-10-19 16:00:00,"Fulham - Aston Villa, 1-3",8,1616,1614,Fulham,Aston Villa,1,3,Played,71037,3265,364,2024
+5588167,364,189908,2024-10-25 21:00:00,"Leicester City - Nottingham Forest, 1-3",9,1631,1642,Leicester City,Nottingham Forest,1,3,Played,399504,753313,364,2024
+5588180,364,189908,2024-11-09 16:00:00,"Brentford - Bournemouth, 3-2",11,1669,1659,Brentford,Bournemouth,3,2,Played,135095,575112,364,2024
+5588124,364,189908,2024-09-21 16:00:00,"Leicester City - Everton, 1-1",5,1631,1623,Leicester City,Everton,1,1,Played,399504,8880,364,2024
+5588148,364,189908,2024-10-05 16:00:00,"Manchester City - Fulham, 3-2",7,1625,1616,Manchester City,Fulham,3,2,Played,267136,71037,364,2024
+5588161,364,189908,2024-10-26 16:00:00,"Aston Villa - Bournemouth, 1-1",9,1614,1659,Aston Villa,Bournemouth,1,1,Played,3265,575112,364,2024
+5588240,364,189908,2024-12-21 13:30:00,"Aston Villa - Manchester City, 2-1",17,1614,1625,Aston Villa,Manchester City,2,1,Played,3265,267136,364,2024
+5588256,364,189908,2024-12-26 16:00:00,"Newcastle United - Aston Villa, 3-0",18,1613,1614,Newcastle United,Aston Villa,3,0,Played,8934,3265,364,2024
+5588448,364,189908,2025-05-20 21:00:00,"Manchester City - Bournemouth, 3-1",37,1625,1659,Manchester City,Bournemouth,3,1,Played,267136,575112,364,2024
+5588086,364,189908,2024-08-17 18:30:00,"West Ham United - Aston Villa, 1-2",1,1633,1614,West Ham United,Aston Villa,1,2,Played,134152,3265,364,2024
+5588103,364,189908,2024-08-31 16:00:00,"Everton - Bournemouth, 2-3",3,1623,1659,Everton,Bournemouth,2,3,Played,8880,575112,364,2024
+5588216,364,189908,2024-12-03 21:15:00,"Leicester City - West Ham United, 3-1",14,1631,1633,Leicester City,West Ham United,3,1,Played,584511,134152,364,2024
+5588273,364,189908,2025-01-04 16:00:00,"Crystal Palace - Chelsea, 1-1",20,1628,1610,Crystal Palace,Chelsea,1,1,Played,753418,685043,364,2024
+5588377,364,189908,2025-04-02 20:45:00,"Newcastle United - Brentford, 2-1",30,1613,1669,Newcastle United,Brentford,2,1,Played,8934,135095,364,2024
+5588383,364,189908,2025-04-05 13:30:00,"Everton - Arsenal, 1-1",31,1623,1609,Everton,Arsenal,1,1,Played,8235,743345,364,2024
+5588138,364,189908,2024-09-28 16:00:00,"Nottingham Forest - Fulham, 0-1",6,1642,1616,Nottingham Forest,Fulham,0,1,Played,753313,71037,364,2024
+5588160,364,189908,2024-10-27 17:30:00,"Arsenal - Liverpool, 2-2",9,1609,1612,Arsenal,Liverpool,2,2,Played,743345,753720,364,2024
+5588254,364,189908,2024-12-26 21:00:00,"Liverpool - Leicester City, 3-1",18,1612,1631,Liverpool,Leicester City,3,1,Played,753720,584511,364,2024
+5588294,364,189908,2025-01-19 17:30:00,"Ipswich Town - Manchester City, 0-6",22,1634,1625,Ipswich Town,Manchester City,0,6,Played,447789,267136,364,2024
+5588182,364,189908,2024-11-10 17:30:00,"Chelsea - Arsenal, 1-1",11,1610,1609,Chelsea,Arsenal,1,1,Played,685043,743345,364,2024
+5588193,364,189908,2024-11-23 16:00:00,"Everton - Brentford, 0-0",12,1623,1669,Everton,Brentford,0,0,Played,8880,135095,364,2024
+5588244,364,189908,2024-12-22 15:00:00,"Fulham - Southampton, 0-0",17,1616,1619,Fulham,Southampton,0,0,Played,71037,789395,364,2024
+5588264,364,189908,2024-12-29 16:00:00,"Fulham - Bournemouth, 2-2",19,1616,1659,Fulham,Bournemouth,2,2,Played,71037,575112,364,2024
+5588408,364,189908,2025-04-21 21:00:00,"Tottenham Hotspur - Nottingham Forest, 1-2",33,1624,1642,Tottenham Hotspur,Nottingham Forest,1,2,Played,61546,753313,364,2024
+5588439,364,189908,2025-05-10 16:00:00,"Wolverhampton Wanderers - Brighton, 0-2",36,1629,1651,Wolverhampton Wanderers,Brighton,0,2,Played,70077,18554,364,2024
+5588119,364,189908,2024-09-15 17:30:00,"Wolverhampton Wanderers - Newcastle United, 1-2",4,1629,1613,Wolverhampton Wanderers,Newcastle United,1,2,Played,857736,8934,364,2024
+5588226,364,189908,2024-12-08 15:00:00,"Leicester City - Brighton, 2-2",15,1631,1651,Leicester City,Brighton,2,2,Played,584511,18554,364,2024
+5588280,364,189908,2025-01-15 21:00:00,"Arsenal - Tottenham Hotspur, 2-1",21,1609,1624,Arsenal,Tottenham Hotspur,2,1,Played,743345,61546,364,2024
+5588342,364,189908,2025-02-26 20:30:00,"Nottingham Forest - Arsenal, 0-0",27,1642,1609,Nottingham Forest,Arsenal,0,0,Played,753313,743345,364,2024
+5588353,364,189908,2025-03-08 16:00:00,"Crystal Palace - Ipswich Town, 1-0",28,1628,1634,Crystal Palace,Ipswich Town,1,0,Played,753418,447789,364,2024
+5588401,364,189908,2025-04-19 16:00:00,"Brentford - Brighton, 4-2",33,1669,1651,Brentford,Brighton,4,2,Played,135095,18554,364,2024
+5588410,364,189908,2025-04-23 21:00:00,"Arsenal - Crystal Palace, 2-2",34,1609,1628,Arsenal,Crystal Palace,2,2,Played,743345,753418,364,2024
+5588423,364,189908,2025-05-04 15:00:00,"Brighton - Newcastle United, 1-1",35,1651,1613,Brighton,Newcastle United,1,1,Played,18554,8934,364,2024
+5588157,364,189908,2024-10-19 16:00:00,"Southampton - Leicester City, 2-3",8,1619,1631,Southampton,Leicester City,2,3,Played,641939,399504,364,2024
+5588220,364,189908,2024-12-07 16:00:00,"Aston Villa - Southampton, 1-0",15,1614,1619,Aston Villa,Southampton,1,0,Played,3265,641939,364,2024
+5588225,364,189908,2024-12-08 15:00:00,"Ipswich Town - Bournemouth, 1-2",15,1634,1659,Ipswich Town,Bournemouth,1,2,Played,447789,575112,364,2024
+5588249,364,189908,2024-12-21 16:00:00,"West Ham United - Brighton, 1-1",17,1633,1651,West Ham United,Brighton,1,1,Played,134152,18554,364,2024
+5588270,364,189908,2025-01-04 16:00:00,"Aston Villa - Leicester City, 2-1",20,1614,1631,Aston Villa,Leicester City,2,1,Played,3265,584511,364,2024
+5588288,364,189908,2025-01-15 20:30:00,"Newcastle United - Wolverhampton Wanderers, 3-0",21,1613,1629,Newcastle United,Wolverhampton Wanderers,3,0,Played,8934,70077,364,2024
+5588392,364,189908,2025-04-12 16:00:00,"Brighton - Leicester City, 2-2",32,1651,1631,Brighton,Leicester City,2,2,Played,18554,1185672,364,2024
+5588435,364,189908,2025-05-11 13:00:00,"Newcastle United - Chelsea, 2-0",36,1613,1610,Newcastle United,Chelsea,2,0,Played,8934,685043,364,2024
+5588145,364,189908,2024-10-05 13:30:00,"Crystal Palace - Liverpool, 0-1",7,1628,1612,Crystal Palace,Liverpool,0,1,Played,753418,753720,364,2024
+5588227,364,189908,2024-12-07 18:30:00,"Manchester United - Nottingham Forest, 2-3",15,1611,1642,Manchester United,Nottingham Forest,2,3,Played,743349,753313,364,2024
+5588230,364,189908,2024-12-14 16:00:00,"Arsenal - Everton, 0-0",16,1609,1623,Arsenal,Everton,0,0,Played,743345,8880,364,2024
+5588247,364,189908,2024-12-22 15:00:00,"Manchester United - Bournemouth, 0-3",17,1611,1659,Manchester United,Bournemouth,0,3,Played,743349,575112,364,2024
+5588274,364,189908,2025-01-05 15:00:00,"Fulham - Ipswich Town, 2-2",20,1616,1634,Fulham,Ipswich Town,2,2,Played,71037,447789,364,2024
+5588361,364,189908,2025-02-19 20:30:00,"Aston Villa - Liverpool, 2-2",29,1614,1612,Aston Villa,Liverpool,2,2,Played,3265,753720,364,2024
+5588364,364,189908,2025-03-16 14:30:00,"Fulham - Tottenham Hotspur, 2-0",29,1616,1624,Fulham,Tottenham Hotspur,2,0,Played,71037,61546,364,2024
+5588370,364,189908,2025-04-01 20:45:00,"Arsenal - Fulham, 2-1",30,1609,1616,Arsenal,Fulham,2,1,Played,743345,71037,364,2024
+5588407,364,189908,2025-04-20 15:00:00,"Manchester United - Wolverhampton Wanderers, 0-1",33,1611,1629,Manchester United,Wolverhampton Wanderers,0,1,Played,743349,70077,364,2024
+5588082,364,189908,2024-08-17 16:00:00,"Arsenal - Wolverhampton Wanderers, 2-0",1,1609,1629,Arsenal,Wolverhampton Wanderers,2,0,Played,743345,857736,364,2024
+5588185,364,189908,2024-11-10 15:00:00,"Manchester United - Leicester City, 3-0",11,1611,1631,Manchester United,Leicester City,3,0,Played,584511,399504,364,2024
+5588196,364,189908,2024-11-23 13:30:00,"Leicester City - Chelsea, 1-2",12,1631,1610,Leicester City,Chelsea,1,2,Played,399504,685043,364,2024
+5588287,364,189908,2025-01-14 20:30:00,"Chelsea - Bournemouth, 2-2",21,1610,1659,Chelsea,Bournemouth,2,2,Played,685043,575112,364,2024
+5588350,364,189908,2025-03-08 18:30:00,"Brentford - Aston Villa, 0-1",28,1669,1614,Brentford,Aston Villa,0,1,Played,135095,3265,364,2024
+5588455,364,189908,2025-05-25 17:00:00,"Newcastle United - Everton, 0-1",38,1613,1623,Newcastle United,Everton,0,1,Played,8934,8235,364,2024
+5588097,364,189908,2024-08-24 16:00:00,"Southampton - Nottingham Forest, 0-1",2,1619,1642,Southampton,Nottingham Forest,0,1,Played,641939,753313,364,2024
+5588130,364,189908,2024-09-28 16:00:00,"Arsenal - Leicester City, 4-2",6,1609,1631,Arsenal,Leicester City,4,2,Played,743345,399504,364,2024
+5588236,364,189908,2024-12-14 16:00:00,"Newcastle United - Leicester City, 4-0",16,1613,1631,Newcastle United,Leicester City,4,0,Played,8934,584511,364,2024
+5588262,364,189908,2024-12-29 16:00:00,"Crystal Palace - Southampton, 2-1",19,1628,1619,Crystal Palace,Southampton,2,1,Played,753418,753322,364,2024
+5588317,364,189908,2025-02-01 16:00:00,"Newcastle United - Fulham, 1-2",24,1613,1616,Newcastle United,Fulham,1,2,Played,8934,71037,364,2024
+5588324,364,189908,2025-02-15 13:30:00,"Leicester City - Arsenal, 0-2",25,1631,1609,Leicester City,Arsenal,0,2,Played,584511,743345,364,2024
+5588341,364,189908,2025-02-25 20:30:00,"Brighton - Bournemouth, 2-1",27,1651,1659,Brighton,Bournemouth,2,1,Played,18554,575112,364,2024
+5588430,364,189908,2025-05-10 18:30:00,"Bournemouth - Aston Villa, 0-1",36,1659,1614,Bournemouth,Aston Villa,0,1,Played,575112,3265,364,2024
+5588116,364,189908,2024-09-14 16:00:00,"Manchester City - Brentford, 2-1",4,1625,1669,Manchester City,Brentford,2,1,Played,267136,135095,364,2024
+5588126,364,189908,2024-09-22 17:30:00,"Manchester City - Arsenal, 2-2",5,1625,1609,Manchester City,Arsenal,2,2,Played,267136,743345,364,2024
+5588140,364,189908,2024-10-05 16:00:00,"Arsenal - Southampton, 3-1",7,1609,1619,Arsenal,Southampton,3,1,Played,743345,641939,364,2024
+5588174,364,189908,2024-11-03 17:30:00,"Manchester United - Chelsea, 1-1",10,1611,1610,Manchester United,Chelsea,1,1,Played,584511,685043,364,2024
+5588257,364,189908,2024-12-26 16:00:00,"Nottingham Forest - Tottenham Hotspur, 1-0",18,1642,1624,Nottingham Forest,Tottenham Hotspur,1,0,Played,753313,61546,364,2024
+5588402,364,189908,2025-04-19 16:00:00,"Crystal Palace - Bournemouth, 0-0",33,1628,1659,Crystal Palace,Bournemouth,0,0,Played,753418,575112,364,2024
+5588309,364,189908,2025-01-25 16:00:00,"Wolverhampton Wanderers - Arsenal, 0-1",23,1629,1609,Wolverhampton Wanderers,Arsenal,0,1,Played,70077,743345,364,2024
+5588340,364,189908,2025-02-26 20:30:00,"Brentford - Everton, 1-1",27,1669,1623,Brentford,Everton,1,1,Played,135095,8235,364,2024
+5588351,364,189908,2025-03-08 16:00:00,"Brighton - Fulham, 2-1",28,1651,1616,Brighton,Fulham,2,1,Played,18554,71037,364,2024
+5588369,364,189908,2025-03-15 16:00:00,"Southampton - Wolverhampton Wanderers, 1-2",29,1619,1629,Southampton,Wolverhampton Wanderers,1,2,Played,753322,70077,364,2024
+5588395,364,189908,2025-04-12 13:30:00,"Manchester City - Crystal Palace, 5-2",32,1625,1628,Manchester City,Crystal Palace,5,2,Played,267136,753418,364,2024
+5588458,364,189908,2025-05-25 17:00:00,"Tottenham Hotspur - Brighton, 1-4",38,1624,1651,Tottenham Hotspur,Brighton,1,4,Played,61546,18554,364,2024
+5588113,364,189908,2024-09-14 16:00:00,"Crystal Palace - Leicester City, 2-2",4,1628,1631,Crystal Palace,Leicester City,2,2,Played,753418,399504,364,2024
+5588155,364,189908,2024-10-19 16:00:00,"Newcastle United - Brighton, 0-1",8,1613,1651,Newcastle United,Brighton,0,1,Played,8934,18554,364,2024
+5588156,364,189908,2024-10-21 21:00:00,"Nottingham Forest - Crystal Palace, 1-0",8,1642,1628,Nottingham Forest,Crystal Palace,1,0,Played,753313,753418,364,2024
+5588187,364,189908,2024-11-10 15:00:00,"Tottenham Hotspur - Ipswich Town, 1-2",11,1624,1634,Tottenham Hotspur,Ipswich Town,1,2,Played,61546,447789,364,2024
+5588221,364,189908,2024-12-07 16:00:00,"Brentford - Newcastle United, 4-2",15,1669,1613,Brentford,Newcastle United,4,2,Played,135095,8934,364,2024
+5588239,364,189908,2024-12-14 16:00:00,"Wolverhampton Wanderers - Ipswich Town, 1-2",16,1629,1634,Wolverhampton Wanderers,Ipswich Town,1,2,Played,857736,447789,364,2024
+5588312,364,189908,2025-02-02 15:00:00,"Brentford - Tottenham Hotspur, 0-2",24,1669,1624,Brentford,Tottenham Hotspur,0,2,Played,135095,61546,364,2024
+5588325,364,189908,2025-02-16 15:00:00,"Liverpool - Wolverhampton Wanderers, 2-1",25,1612,1629,Liverpool,Wolverhampton Wanderers,2,1,Played,753720,70077,364,2024
+5588334,364,189908,2025-02-22 16:00:00,"Fulham - Crystal Palace, 0-2",26,1616,1628,Fulham,Crystal Palace,0,2,Played,71037,753418,364,2024
+5588089,364,189908,2024-08-19 21:00:00,"Leicester City - Tottenham Hotspur, 1-1",1,1631,1624,Leicester City,Tottenham Hotspur,1,1,Played,399504,61546,364,2024
+5588137,364,189908,2024-09-28 13:30:00,"Newcastle United - Manchester City, 1-1",6,1613,1625,Newcastle United,Manchester City,1,1,Played,8934,267136,364,2024
+5588263,364,189908,2024-12-29 16:00:00,"Everton - Nottingham Forest, 0-2",19,1623,1642,Everton,Nottingham Forest,0,2,Played,8880,753313,364,2024
+5588380,364,189908,2025-04-05 18:30:00,"Aston Villa - Nottingham Forest, 2-1",31,1614,1642,Aston Villa,Nottingham Forest,2,1,Played,3265,753313,364,2024
+5588129,364,189908,2024-09-21 13:30:00,"West Ham United - Chelsea, 0-3",5,1633,1610,West Ham United,Chelsea,0,3,Played,134152,685043,364,2024
+5588269,364,189908,2024-12-29 18:15:00,"West Ham United - Liverpool, 0-5",19,1633,1612,West Ham United,Liverpool,0,5,Played,134152,753720,364,2024
+5588301,364,189908,2025-01-25 16:00:00,"Bournemouth - Nottingham Forest, 5-0",23,1659,1642,Bournemouth,Nottingham Forest,5,0,Played,575112,753313,364,2024
+5588310,364,189908,2025-02-02 17:30:00,"Arsenal - Manchester City, 5-1",24,1609,1625,Arsenal,Manchester City,5,1,Played,743345,267136,364,2024
+5588337,364,189908,2025-02-23 17:30:00,"Manchester City - Liverpool, 0-2",26,1625,1612,Manchester City,Liverpool,0,2,Played,267136,753720,364,2024
+5588355,364,189908,2025-03-09 17:30:00,"Manchester United - Arsenal, 1-1",28,1611,1609,Manchester United,Arsenal,1,1,Played,743349,743345,364,2024
+5588381,364,189908,2025-04-06 15:00:00,"Brentford - Chelsea, 0-0",31,1669,1610,Brentford,Chelsea,0,0,Played,135095,685043,364,2024
+5588432,364,189908,2025-05-10 16:00:00,"Ipswich Town - Brentford, 0-1",36,1634,1669,Ipswich Town,Brentford,0,1,Played,447789,135095,364,2024
+5588118,364,189908,2024-09-15 15:00:00,"Tottenham Hotspur - Arsenal, 0-1",4,1624,1609,Tottenham Hotspur,Arsenal,0,1,Played,61546,743345,364,2024
+5588219,364,189908,2024-12-04 20:30:00,"Southampton - Chelsea, 1-5",14,1619,1610,Southampton,Chelsea,1,5,Played,641939,685043,364,2024
+5588232,364,189908,2024-12-15 15:00:00,"Brighton - Crystal Palace, 1-3",16,1651,1628,Brighton,Crystal Palace,1,3,Played,18554,753418,364,2024
+5588306,364,189908,2025-01-25 18:30:00,"Manchester City - Chelsea, 3-1",23,1625,1610,Manchester City,Chelsea,3,1,Played,267136,685043,364,2024
+5588373,364,189908,2025-04-01 21:00:00,"Nottingham Forest - Manchester United, 1-0",30,1642,1611,Nottingham Forest,Manchester United,1,0,Played,753313,743349,364,2024
+5588384,364,189908,2025-04-06 15:00:00,"Fulham - Liverpool, 3-2",31,1616,1612,Fulham,Liverpool,3,2,Played,71037,753720,364,2024
+5588406,364,189908,2025-04-20 17:30:00,"Leicester City - Liverpool, 0-1",33,1631,1612,Leicester City,Liverpool,0,1,Played,1185672,753720,364,2024
+5588241,364,189908,2024-12-21 16:00:00,"Brentford - Nottingham Forest, 0-2",17,1669,1642,Brentford,Nottingham Forest,0,2,Played,135095,753313,364,2024
+5588304,364,189908,2025-01-26 20:00:00,"Fulham - Manchester United, 0-1",23,1616,1611,Fulham,Manchester United,0,1,Played,71037,743349,364,2024
+5588376,364,189908,2025-04-02 20:45:00,"Manchester City - Leicester City, 2-0",30,1625,1631,Manchester City,Leicester City,2,0,Played,267136,584511,364,2024
+5588091,364,189908,2024-08-25 15:00:00,"Bournemouth - Newcastle United, 1-1",2,1659,1613,Bournemouth,Newcastle United,1,1,Played,575112,8934,364,2024
+5588177,364,189908,2024-11-02 16:00:00,"Southampton - Everton, 1-0",10,1619,1623,Southampton,Everton,1,0,Played,641939,8880,364,2024
+5588209,364,189908,2024-11-30 16:00:00,"Wolverhampton Wanderers - Bournemouth, 2-4",13,1629,1659,Wolverhampton Wanderers,Bournemouth,2,4,Played,857736,575112,364,2024
+5588266,364,189908,2024-12-29 15:30:00,"Leicester City - Manchester City, 0-2",19,1631,1625,Leicester City,Manchester City,0,2,Played,584511,267136,364,2024
+5588322,364,189908,2025-02-15 18:30:00,"Crystal Palace - Everton, 1-2",25,1628,1623,Crystal Palace,Everton,1,2,Played,753418,8235,364,2024
+5588343,364,189908,2025-02-26 20:30:00,"Tottenham Hotspur - Manchester City, 0-1",27,1624,1625,Tottenham Hotspur,Manchester City,0,1,Played,61546,267136,364,2024
+5588424,364,189908,2025-05-04 17:30:00,"Chelsea - Liverpool, 3-1",35,1610,1612,Chelsea,Liverpool,3,1,Played,685043,753720,364,2024
+5588105,364,189908,2024-08-31 16:00:00,"Leicester City - Aston Villa, 1-2",3,1631,1614,Leicester City,Aston Villa,1,2,Played,399504,3265,364,2024
+5588102,364,189908,2024-09-01 14:30:00,"Chelsea - Crystal Palace, 1-1",3,1610,1628,Chelsea,Crystal Palace,1,1,Played,685043,753418,364,2024
+5588150,364,189908,2024-10-19 18:30:00,"Bournemouth - Arsenal, 2-0",8,1659,1609,Bournemouth,Arsenal,2,0,Played,575112,743345,364,2024
+5588286,364,189908,2025-01-14 20:30:00,"West Ham United - Fulham, 3-2",21,1633,1616,West Ham United,Fulham,3,2,Played,51607,71037,364,2024
+5588321,364,189908,2025-02-14 21:00:00,"Brighton - Chelsea, 3-0",25,1651,1610,Brighton,Chelsea,3,0,Played,18554,685043,364,2024
+5588431,364,189908,2025-05-10 16:00:00,"Fulham - Everton, 1-3",36,1616,1623,Fulham,Everton,1,3,Played,71037,8235,364,2024
+5588172,364,189908,2024-11-02 16:00:00,"Ipswich Town - Leicester City, 1-1",10,1634,1631,Ipswich Town,Leicester City,1,1,Played,447789,399504,364,2024
+5588200,364,189908,2024-11-30 16:00:00,"Brentford - Leicester City, 4-1",13,1669,1631,Brentford,Leicester City,4,1,Played,135095,582607,364,2024
+5588205,364,189908,2024-12-01 14:30:00,"Manchester United - Everton, 4-0",13,1611,1623,Manchester United,Everton,4,0,Played,743349,8880,364,2024
+5588217,364,189908,2024-12-04 20:30:00,"Manchester City - Nottingham Forest, 3-0",14,1625,1642,Manchester City,Nottingham Forest,3,0,Played,267136,753313,364,2024
+5588277,364,189908,2025-01-04 16:00:00,"Southampton - Brentford, 0-5",20,1619,1669,Southampton,Brentford,0,5,Played,753322,135095,364,2024
+5588346,364,189908,2025-02-25 20:30:00,"Crystal Palace - Aston Villa, 4-1",27,1628,1614,Crystal Palace,Aston Villa,4,1,Played,753418,3265,364,2024
+5588409,364,189908,2025-04-19 16:00:00,"West Ham United - Southampton, 1-1",33,1633,1619,West Ham United,Southampton,1,1,Played,51607,789395,364,2024
+5588092,364,189908,2024-08-24 13:30:00,"Brighton - Manchester United, 2-1",2,1651,1611,Brighton,Manchester United,2,1,Played,18554,221070,364,2024
+5588175,364,189908,2024-11-02 13:30:00,"Newcastle United - Arsenal, 1-0",10,1613,1609,Newcastle United,Arsenal,1,0,Played,8934,743345,364,2024
+5588195,364,189908,2024-11-24 17:30:00,"Ipswich Town - Manchester United, 1-1",12,1634,1611,Ipswich Town,Manchester United,1,1,Played,447789,743349,364,2024
+5588251,364,189908,2024-12-26 16:00:00,"Bournemouth - Crystal Palace, 0-0",18,1659,1628,Bournemouth,Crystal Palace,0,0,Played,575112,753418,364,2024
+5588311,364,189908,2025-02-01 16:00:00,"Bournemouth - Liverpool, 0-2",24,1659,1612,Bournemouth,Liverpool,0,2,Played,575112,753720,364,2024
+5588382,364,189908,2025-04-05 16:00:00,"Crystal Palace - Brighton, 2-1",31,1628,1651,Crystal Palace,Brighton,2,1,Played,753418,18554,364,2024
+5588447,364,189908,2025-05-18 16:00:00,"Leicester City - Ipswich Town, 2-0",37,1631,1634,Leicester City,Ipswich Town,2,0,Played,1185672,447789,364,2024
+5588109,364,189908,2024-08-31 18:30:00,"West Ham United - Manchester City, 1-3",3,1633,1625,West Ham United,Manchester City,1,3,Played,134152,267136,364,2024
+5588121,364,189908,2024-09-22 15:00:00,"Brighton - Nottingham Forest, 2-2",5,1651,1642,Brighton,Nottingham Forest,2,2,Played,18554,753313,364,2024
+5588135,364,189908,2024-09-29 15:00:00,"Ipswich Town - Aston Villa, 2-2",6,1634,1614,Ipswich Town,Aston Villa,2,2,Played,447789,3265,364,2024
+5588191,364,189908,2024-11-23 16:00:00,"Aston Villa - Crystal Palace, 2-2",12,1614,1628,Aston Villa,Crystal Palace,2,2,Played,3265,753418,364,2024
+5588235,364,189908,2024-12-15 17:30:00,"Manchester City - Manchester United, 1-2",16,1625,1611,Manchester City,Manchester United,1,2,Played,267136,743349,364,2024
+5588298,364,189908,2025-01-19 15:00:00,"Nottingham Forest - Southampton, 3-2",22,1642,1619,Nottingham Forest,Southampton,3,2,Played,753313,753322,364,2024
+5588349,364,189908,2025-02-26 20:30:00,"Manchester United - Ipswich Town, 3-2",27,1611,1634,Manchester United,Ipswich Town,3,2,Played,743349,447789,364,2024
+5588425,364,189908,2025-05-05 21:00:00,"Crystal Palace - Nottingham Forest, 1-1",35,1628,1642,Crystal Palace,Nottingham Forest,1,1,Played,753418,753313,364,2024
+5588163,364,189908,2024-10-26 16:00:00,"Brighton - Wolverhampton Wanderers, 2-2",9,1651,1629,Brighton,Wolverhampton Wanderers,2,2,Played,18554,857736,364,2024
+5588188,364,189908,2024-11-09 16:00:00,"West Ham United - Everton, 0-0",11,1633,1623,West Ham United,Everton,0,0,Played,134152,8880,364,2024
+5588323,364,189908,2025-02-15 16:00:00,"Fulham - Nottingham Forest, 2-1",25,1616,1642,Fulham,Nottingham Forest,2,1,Played,71037,753313,364,2024
+5588348,364,189908,2025-02-26 21:15:00,"Liverpool - Newcastle United, 2-0",27,1612,1613,Liverpool,Newcastle United,2,0,Played,753720,8934,364,2024
+5588106,364,189908,2024-09-01 17:00:00,"Manchester United - Liverpool, 0-3",3,1611,1612,Manchester United,Liverpool,0,3,Played,221070,753720,364,2024
+5588179,364,189908,2024-11-02 18:30:00,"Wolverhampton Wanderers - Crystal Palace, 2-2",10,1629,1628,Wolverhampton Wanderers,Crystal Palace,2,2,Played,857736,753418,364,2024
+5588229,364,189908,2024-12-09 21:00:00,"West Ham United - Wolverhampton Wanderers, 2-1",15,1633,1629,West Ham United,Wolverhampton Wanderers,2,1,Played,134152,857736,364,2024
+5588246,364,189908,2024-12-22 15:00:00,"Leicester City - Wolverhampton Wanderers, 0-3",17,1631,1629,Leicester City,Wolverhampton Wanderers,0,3,Played,584511,857736,364,2024
+5588375,364,189908,2025-04-03 21:00:00,"Chelsea - Tottenham Hotspur, 1-0",30,1610,1624,Chelsea,Tottenham Hotspur,1,0,Played,685043,61546,364,2024
+5588434,364,189908,2025-05-11 15:15:00,"Manchester United - West Ham United, 0-2",36,1611,1633,Manchester United,West Ham United,0,2,Played,743349,51607,364,2024
+5588112,364,189908,2024-09-14 16:00:00,"Brighton - Ipswich Town, 0-0",4,1651,1634,Brighton,Ipswich Town,0,0,Played,18554,447789,364,2024
+5588158,364,189908,2024-10-19 13:30:00,"Tottenham Hotspur - West Ham United, 4-1",8,1624,1633,Tottenham Hotspur,West Ham United,4,1,Played,61546,134152,364,2024
+5588181,364,189908,2024-11-09 18:30:00,"Brighton - Manchester City, 2-1",11,1651,1625,Brighton,Manchester City,2,1,Played,18554,267136,364,2024
+5588203,364,189908,2024-11-30 16:00:00,"Crystal Palace - Newcastle United, 1-1",13,1628,1613,Crystal Palace,Newcastle United,1,1,Played,753418,8934,364,2024
+5588278,364,189908,2025-01-04 13:30:00,"Tottenham Hotspur - Newcastle United, 1-2",20,1624,1613,Tottenham Hotspur,Newcastle United,1,2,Played,61546,8934,364,2024
+5588285,364,189908,2025-01-14 21:00:00,"Nottingham Forest - Liverpool, 1-1",21,1642,1612,Nottingham Forest,Liverpool,1,1,Played,753313,753720,364,2024
+5588283,364,189908,2025-01-16 20:30:00,"Ipswich Town - Brighton, 0-2",21,1634,1651,Ipswich Town,Brighton,0,2,Played,447789,18554,364,2024
+5588387,364,189908,2025-04-06 17:30:00,"Manchester United - Manchester City, 0-0",31,1611,1625,Manchester United,Manchester City,0,0,Played,743349,267136,364,2024
+5588403,364,189908,2025-04-19 16:00:00,"Everton - Manchester City, 0-2",33,1623,1625,Everton,Manchester City,0,2,Played,8235,267136,364,2024
+5588300,364,189908,2025-01-26 17:30:00,"Aston Villa - West Ham United, 1-1",23,1614,1633,Aston Villa,West Ham United,1,1,Played,3265,51607,364,2024
+5588223,364,189908,2025-02-12 20:30:00,"Everton - Liverpool, 2-2",15,1623,1612,Everton,Liverpool,2,2,Played,8235,753720,364,2024
+5588338,364,189908,2025-02-23 15:00:00,"Newcastle United - Nottingham Forest, 4-3",26,1613,1642,Newcastle United,Nottingham Forest,4,3,Played,8934,753313,364,2024
+5588390,364,189908,2025-04-12 18:30:00,"Arsenal - Brentford, 1-1",32,1609,1669,Arsenal,Brentford,1,1,Played,743345,135095,364,2024
+5588421,364,189908,2025-05-03 13:30:00,"Aston Villa - Fulham, 1-0",35,1614,1616,Aston Villa,Fulham,1,0,Played,3265,71037,364,2024
+5588141,364,189908,2024-10-06 15:00:00,"Aston Villa - Manchester United, 0-0",7,1614,1611,Aston Villa,Manchester United,0,0,Played,3265,221070,364,2024
+5588233,364,189908,2024-12-15 20:00:00,"Chelsea - Brentford, 2-1",16,1610,1669,Chelsea,Brentford,2,1,Played,685043,135095,364,2024
+5588271,364,189908,2025-01-04 16:00:00,"Bournemouth - Everton, 1-0",20,1659,1623,Bournemouth,Everton,1,0,Played,575112,8880,364,2024
+5588318,364,189908,2025-02-01 13:30:00,"Nottingham Forest - Brighton, 7-0",24,1642,1651,Nottingham Forest,Brighton,7,0,Played,753313,18554,364,2024
+5588328,364,189908,2025-02-16 17:30:00,"Tottenham Hotspur - Manchester United, 1-0",25,1624,1611,Tottenham Hotspur,Manchester United,1,0,Played,61546,743349,364,2024
+5588330,364,189908,2025-02-22 16:00:00,"Arsenal - West Ham United, 0-1",26,1609,1633,Arsenal,West Ham United,0,1,Played,743345,51607,364,2024
+5588371,364,189908,2025-04-02 20:45:00,"Bournemouth - Ipswich Town, 1-2",30,1659,1634,Bournemouth,Ipswich Town,1,2,Played,575112,447789,364,2024
+5588394,364,189908,2025-04-13 15:00:00,"Liverpool - West Ham United, 2-1",32,1612,1633,Liverpool,West Ham United,2,1,Played,753720,51607,364,2024
+5588405,364,189908,2025-04-20 15:00:00,"Ipswich Town - Arsenal, 0-4",33,1634,1609,Ipswich Town,Arsenal,0,4,Played,447789,743345,364,2024
+5588428,364,189908,2025-05-02 21:00:00,"Manchester City - Wolverhampton Wanderers, 1-0",35,1625,1629,Manchester City,Wolverhampton Wanderers,1,0,Played,267136,70077,364,2024
+5588084,364,189908,2024-08-17 16:00:00,"Newcastle United - Southampton, 1-0",1,1613,1619,Newcastle United,Southampton,1,0,Played,8934,641939,364,2024
+5588281,364,189908,2025-01-14 20:30:00,"Brentford - Manchester City, 2-2",21,1669,1625,Brentford,Manchester City,2,2,Played,135095,267136,364,2024
+5588295,364,189908,2025-01-18 16:00:00,"Leicester City - Fulham, 0-2",22,1631,1616,Leicester City,Fulham,0,2,Played,584511,71037,364,2024
+5588339,364,189908,2025-02-22 16:00:00,"Southampton - Brighton, 0-4",26,1619,1651,Southampton,Brighton,0,4,Played,753322,18554,364,2024
+5588389,364,189908,2025-04-05 16:00:00,"West Ham United - Bournemouth, 2-2",31,1633,1659,West Ham United,Bournemouth,2,2,Played,51607,575112,364,2024
+5588399,364,189908,2025-04-13 15:00:00,"Wolverhampton Wanderers - Tottenham Hotspur, 4-2",32,1629,1624,Wolverhampton Wanderers,Tottenham Hotspur,4,2,Played,70077,61546,364,2024
+5588411,364,189908,2025-04-27 15:00:00,"Bournemouth - Manchester United, 1-1",34,1659,1611,Bournemouth,Manchester United,1,1,Played,575112,743349,364,2024
+5588123,364,189908,2024-09-21 16:00:00,"Fulham - Newcastle United, 3-1",5,1616,1613,Fulham,Newcastle United,3,1,Played,71037,8934,364,2024
+5588183,364,189908,2024-11-09 16:00:00,"Crystal Palace - Fulham, 0-2",11,1628,1616,Crystal Palace,Fulham,0,2,Played,753418,71037,364,2024
+5588192,364,189908,2024-11-23 16:00:00,"Bournemouth - Brighton, 1-2",12,1659,1651,Bournemouth,Brighton,1,2,Played,575112,18554,364,2024
+5588289,364,189908,2025-01-16 21:00:00,"Manchester United - Southampton, 3-1",21,1611,1619,Manchester United,Southampton,3,1,Played,743349,753322,364,2024
+5588326,364,189908,2025-02-15 16:00:00,"Manchester City - Newcastle United, 4-0",25,1625,1613,Manchester City,Newcastle United,4,0,Played,267136,8934,364,2024
+5588436,364,189908,2025-05-11 15:15:00,"Nottingham Forest - Leicester City, 2-2",36,1642,1631,Nottingham Forest,Leicester City,2,2,Played,753313,1185672,364,2024
+5588117,364,189908,2024-09-14 13:30:00,"Southampton - Manchester United, 0-3",4,1619,1611,Southampton,Manchester United,0,3,Played,641939,221070,364,2024
+5588201,364,189908,2024-11-29 21:00:00,"Brighton - Southampton, 1-1",13,1651,1619,Brighton,Southampton,1,1,Played,18554,641939,364,2024
+5588210,364,189908,2024-12-04 21:15:00,"Arsenal - Manchester United, 2-0",14,1609,1611,Arsenal,Manchester United,2,0,Played,743345,743349,364,2024
+5588253,364,189908,2024-12-26 16:00:00,"Chelsea - Fulham, 1-2",18,1610,1616,Chelsea,Fulham,1,2,Played,685043,71037,364,2024
+5588314,364,189908,2025-02-01 16:00:00,"Everton - Leicester City, 4-0",24,1623,1631,Everton,Leicester City,4,0,Played,8235,584511,364,2024
+5588360,364,189908,2025-03-16 14:30:00,"Arsenal - Chelsea, 1-0",29,1609,1610,Arsenal,Chelsea,1,0,Played,743345,685043,364,2024
+5588404,364,189908,2025-04-20 15:00:00,"Fulham - Chelsea, 1-2",33,1616,1610,Fulham,Chelsea,1,2,Played,71037,685043,364,2024
+5588413,364,189908,2025-04-26 13:30:00,"Chelsea - Everton, 1-0",34,1610,1623,Chelsea,Everton,1,0,Played,685043,8235,364,2024
+5588080,364,189908,2024-08-16 21:00:00,"Manchester United - Fulham, 1-0",1,1611,1616,Manchester United,Fulham,1,0,Played,221070,71037,364,2024
+5588108,364,189908,2024-08-31 16:00:00,"Nottingham Forest - Wolverhampton Wanderers, 1-1",3,1642,1629,Nottingham Forest,Wolverhampton Wanderers,1,1,Played,753313,857736,364,2024
+5588206,364,189908,2024-11-30 16:00:00,"Nottingham Forest - Ipswich Town, 1-0",13,1642,1634,Nottingham Forest,Ipswich Town,1,0,Played,753313,447789,364,2024
+5588267,364,189908,2024-12-30 21:00:00,"Manchester United - Newcastle United, 0-2",19,1611,1613,Manchester United,Newcastle United,0,2,Played,743349,8934,364,2024
+5588276,364,189908,2025-01-04 16:00:00,"Manchester City - West Ham United, 4-1",20,1625,1633,Manchester City,West Ham United,4,1,Played,267136,134152,364,2024
+5588279,364,189908,2025-01-06 21:00:00,"Wolverhampton Wanderers - Nottingham Forest, 0-3",20,1629,1642,Wolverhampton Wanderers,Nottingham Forest,0,3,Played,70077,753313,364,2024
+5588336,364,189908,2025-02-21 21:00:00,"Leicester City - Brentford, 0-4",26,1631,1669,Leicester City,Brentford,0,4,Played,584511,135095,364,2024
+5588426,364,189908,2025-05-03 16:00:00,"Everton - Ipswich Town, 2-2",35,1623,1634,Everton,Ipswich Town,2,2,Played,8235,447789,364,2024
+5588083,364,189908,2024-08-17 16:00:00,"Everton - Brighton, 0-3",1,1623,1651,Everton,Brighton,0,3,Played,8880,18554,364,2024
+5588101,364,189908,2024-08-31 16:00:00,"Brentford - Southampton, 3-1",3,1669,1619,Brentford,Southampton,3,1,Played,135095,641939,364,2024
+5588171,364,189908,2024-11-04 21:00:00,"Fulham - Brentford, 2-1",10,1616,1669,Fulham,Brentford,2,1,Played,71037,135095,364,2024
+5588335,364,189908,2025-02-22 16:00:00,"Ipswich Town - Tottenham Hotspur, 1-4",26,1634,1624,Ipswich Town,Tottenham Hotspur,1,4,Played,447789,61546,364,2024
+5588459,364,189908,2025-05-25 17:00:00,"Wolverhampton Wanderers - Brentford, 1-1",38,1629,1669,Wolverhampton Wanderers,Brentford,1,1,Played,70077,135095,364,2024
+5588136,364,189908,2024-09-29 17:30:00,"Manchester United - Tottenham Hotspur, 0-3",6,1611,1624,Manchester United,Tottenham Hotspur,0,3,Played,221070,61546,364,2024
+5588159,364,189908,2024-10-20 15:00:00,"Wolverhampton Wanderers - Manchester City, 1-2",8,1629,1625,Wolverhampton Wanderers,Manchester City,1,2,Played,857736,267136,364,2024
+5588184,364,189908,2024-11-09 21:00:00,"Liverpool - Aston Villa, 2-0",11,1612,1614,Liverpool,Aston Villa,2,0,Played,753720,3265,364,2024
+5588197,364,189908,2024-11-23 18:30:00,"Manchester City - Tottenham Hotspur, 0-4",12,1625,1624,Manchester City,Tottenham Hotspur,0,4,Played,267136,61546,364,2024
+5588291,364,189908,2025-01-18 16:00:00,"Brentford - Liverpool, 0-2",22,1669,1612,Brentford,Liverpool,0,2,Played,135095,753720,364,2024
+5588331,364,189908,2025-02-22 18:30:00,"Aston Villa - Chelsea, 2-1",26,1614,1610,Aston Villa,Chelsea,2,1,Played,3265,685043,364,2024
+5588358,364,189908,2025-03-10 21:00:00,"West Ham United - Newcastle United, 0-1",28,1633,1613,West Ham United,Newcastle United,0,1,Played,51607,8934,364,2024
+5588366,364,189908,2025-03-16 20:00:00,"Leicester City - Manchester United, 0-3",29,1631,1611,Leicester City,Manchester United,0,3,Played,584511,743349,364,2024
+5588093,364,189908,2024-08-24 16:00:00,"Crystal Palace - West Ham United, 0-2",2,1628,1633,Crystal Palace,West Ham United,0,2,Played,753418,134152,364,2024
+5588268,364,189908,2024-12-29 16:00:00,"Tottenham Hotspur - Wolverhampton Wanderers, 2-2",19,1624,1629,Tottenham Hotspur,Wolverhampton Wanderers,2,2,Played,61546,70077,364,2024
+5588290,364,189908,2025-01-18 18:30:00,"Arsenal - Aston Villa, 2-2",22,1609,1614,Arsenal,Aston Villa,2,2,Played,743345,3265,364,2024
+5588357,364,189908,2025-03-09 15:00:00,"Tottenham Hotspur - Bournemouth, 2-2",28,1624,1659,Tottenham Hotspur,Bournemouth,2,2,Played,61546,575112,364,2024
+5588132,364,189908,2024-09-28 16:00:00,"Brentford - West Ham United, 1-1",6,1669,1633,Brentford,West Ham United,1,1,Played,135095,134152,364,2024
+5588142,364,189908,2024-10-05 16:00:00,"Brentford - Wolverhampton Wanderers, 5-3",7,1669,1629,Brentford,Wolverhampton Wanderers,5,3,Played,135095,857736,364,2024
+5588178,364,189908,2024-11-03 15:00:00,"Tottenham Hotspur - Aston Villa, 4-1",10,1624,1614,Tottenham Hotspur,Aston Villa,4,1,Played,61546,3265,364,2024
+5588255,364,189908,2024-12-26 13:30:00,"Manchester City - Everton, 1-1",18,1625,1623,Manchester City,Everton,1,1,Played,267136,8880,364,2024
+5588307,364,189908,2025-01-25 16:00:00,"Southampton - Newcastle United, 1-3",23,1619,1613,Southampton,Newcastle United,1,3,Played,753322,8934,364,2024
+5588315,364,189908,2025-02-01 16:00:00,"Ipswich Town - Southampton, 1-2",24,1634,1619,Ipswich Town,Southampton,1,2,Played,447789,753322,364,2024
+5588100,364,189908,2024-08-31 13:30:00,"Arsenal - Brighton, 1-1",3,1609,1651,Arsenal,Brighton,1,1,Played,743345,18554,364,2024
+5588146,364,189908,2024-10-05 18:30:00,"Everton - Newcastle United, 0-0",7,1623,1613,Everton,Newcastle United,0,0,Played,8880,8934,364,2024
+5588213,364,189908,2024-12-04 20:30:00,"Everton - Wolverhampton Wanderers, 4-0",14,1623,1629,Everton,Wolverhampton Wanderers,4,0,Played,8880,857736,364,2024
+5588414,364,189908,2025-04-27 17:30:00,"Liverpool - Tottenham Hotspur, 5-1",34,1612,1624,Liverpool,Tottenham Hotspur,5,1,Played,753720,61546,364,2024
+5588445,364,189908,2025-05-20 21:00:00,"Crystal Palace - Wolverhampton Wanderers, 4-2",37,1628,1629,Crystal Palace,Wolverhampton Wanderers,4,2,Played,753418,70077,364,2024
+5588115,364,189908,2024-09-14 16:00:00,"Liverpool - Nottingham Forest, 0-1",4,1612,1642,Liverpool,Nottingham Forest,0,1,Played,753720,753313,364,2024
+5588189,364,189908,2024-11-09 16:00:00,"Wolverhampton Wanderers - Southampton, 2-0",11,1629,1619,Wolverhampton Wanderers,Southampton,2,0,Played,857736,641939,364,2024
+5588258,364,189908,2024-12-26 16:00:00,"Southampton - West Ham United, 0-1",18,1619,1633,Southampton,West Ham United,0,1,Played,753322,134152,364,2024
+5588347,364,189908,2025-02-25 21:15:00,"Chelsea - Southampton, 4-0",27,1610,1619,Chelsea,Southampton,4,0,Played,685043,753322,364,2024
+5588396,364,189908,2025-04-13 17:30:00,"Newcastle United - Manchester United, 4-1",32,1613,1611,Newcastle United,Manchester United,4,1,Played,8934,743349,364,2024
+5588427,364,189908,2025-05-03 16:00:00,"Leicester City - Southampton, 2-0",35,1631,1619,Leicester City,Southampton,2,0,Played,1185672,789395,364,2024
+5588186,364,189908,2024-11-10 15:00:00,"Nottingham Forest - Newcastle United, 1-3",11,1642,1613,Nottingham Forest,Newcastle United,1,3,Played,753313,8934,364,2024
+5588367,364,189908,2025-03-15 16:00:00,"Manchester City - Brighton, 2-2",29,1625,1651,Manchester City,Brighton,2,2,Played,267136,18554,364,2024
+5588400,364,189908,2025-04-19 18:30:00,"Aston Villa - Newcastle United, 4-1",33,1614,1613,Aston Villa,Newcastle United,4,1,Played,3265,8934,364,2024
+5588412,364,189908,2025-04-26 16:00:00,"Brighton - West Ham United, 3-2",34,1651,1633,Brighton,West Ham United,3,2,Played,18554,51607,364,2024
+5588440,364,189908,2025-05-18 17:30:00,"Arsenal - Newcastle United, 1-0",37,1609,1613,Arsenal,Newcastle United,1,0,Played,743345,8934,364,2024
+5588319,364,189908,2025-02-01 18:30:00,"Wolverhampton Wanderers - Aston Villa, 2-0",24,1629,1614,Wolverhampton Wanderers,Aston Villa,2,0,Played,70077,3265,364,2024
+5588333,364,189908,2025-02-22 13:30:00,"Everton - Manchester United, 2-2",26,1623,1611,Everton,Manchester United,2,2,Played,8235,743349,364,2024
+5588362,364,189908,2025-03-15 18:30:00,"Bournemouth - Brentford, 1-2",29,1659,1669,Bournemouth,Brentford,1,2,Played,575112,135095,364,2024
+5588441,364,189908,2025-05-16 20:30:00,"Aston Villa - Tottenham Hotspur, 2-0",37,1614,1624,Aston Villa,Tottenham Hotspur,2,0,Played,3265,61546,364,2024
+5588214,364,189908,2024-12-05 20:30:00,"Fulham - Brighton, 3-1",14,1616,1651,Fulham,Brighton,3,1,Played,71037,18554,364,2024
+5588302,364,189908,2025-01-25 16:00:00,"Brighton - Everton, 0-1",23,1651,1623,Brighton,Everton,0,1,Played,18554,8235,364,2024
+5588397,364,189908,2025-04-12 16:00:00,"Nottingham Forest - Everton, 0-1",32,1642,1623,Nottingham Forest,Everton,0,1,Played,753313,8235,364,2024
+5588417,364,189908,2025-05-01 20:30:00,"Nottingham Forest - Brentford, 0-2",34,1642,1669,Nottingham Forest,Brentford,0,2,Played,753313,135095,364,2024
+5588444,364,189908,2025-05-16 21:15:00,"Chelsea - Manchester United, 1-0",37,1610,1611,Chelsea,Manchester United,1,0,Played,685043,743349,364,2024
+5588144,364,189908,2024-10-06 15:00:00,"Chelsea - Nottingham Forest, 1-1",7,1610,1642,Chelsea,Nottingham Forest,1,1,Played,685043,753313,364,2024
+5588228,364,189908,2024-12-08 17:30:00,"Tottenham Hotspur - Chelsea, 3-4",15,1624,1610,Tottenham Hotspur,Chelsea,3,4,Played,61546,685043,364,2024
+5588259,364,189908,2024-12-26 18:30:00,"Wolverhampton Wanderers - Manchester United, 2-0",18,1629,1611,Wolverhampton Wanderers,Manchester United,2,0,Played,70077,743349,364,2024
+5588442,364,189908,2025-05-18 16:00:00,"Brentford - Fulham, 2-3",37,1669,1616,Brentford,Fulham,2,3,Played,135095,71037,364,2024
+5588168,364,189908,2024-10-26 16:00:00,"Manchester City - Southampton, 1-0",9,1625,1619,Manchester City,Southampton,1,0,Played,267136,641939,364,2024
+5588416,364,189908,2025-04-26 16:00:00,"Newcastle United - Ipswich Town, 3-0",34,1613,1634,Newcastle United,Ipswich Town,3,0,Played,8934,447789,364,2024
+5588433,364,189908,2025-05-11 17:30:00,"Liverpool - Arsenal, 2-2",36,1612,1609,Liverpool,Arsenal,2,2,Played,753720,743345,364,2024
+5588449,364,189908,2025-05-18 15:15:00,"West Ham United - Nottingham Forest, 1-2",37,1633,1642,West Ham United,Nottingham Forest,1,2,Played,51607,753313,364,2024
+5588125,364,189908,2024-09-21 16:00:00,"Liverpool - Bournemouth, 3-0",5,1612,1659,Liverpool,Bournemouth,3,0,Played,753720,575112,364,2024
+5588222,364,189908,2024-12-07 16:00:00,"Crystal Palace - Manchester City, 2-2",15,1628,1625,Crystal Palace,Manchester City,2,2,Played,753418,267136,364,2024
+5588237,364,189908,2024-12-14 18:30:00,"Nottingham Forest - Aston Villa, 2-1",16,1642,1614,Nottingham Forest,Aston Villa,2,1,Played,753313,3265,364,2024
+5588238,364,189908,2024-12-15 20:00:00,"Southampton - Tottenham Hotspur, 0-5",16,1619,1624,Southampton,Tottenham Hotspur,0,5,Played,641939,61546,364,2024
+5588260,364,189908,2024-12-30 20:45:00,"Aston Villa - Brighton, 2-2",19,1614,1651,Aston Villa,Brighton,2,2,Played,3265,18554,364,2024
+5588316,364,189908,2025-02-02 15:00:00,"Manchester United - Crystal Palace, 0-2",24,1611,1628,Manchester United,Crystal Palace,0,2,Played,743349,753418,364,2024
+5588344,364,189908,2025-02-27 21:00:00,"West Ham United - Leicester City, 2-0",27,1633,1631,West Ham United,Leicester City,2,0,Played,1065606,584511,364,2024
+5588356,364,189908,2025-03-08 13:30:00,"Nottingham Forest - Manchester City, 1-0",28,1642,1625,Nottingham Forest,Manchester City,1,0,Played,753313,267136,364,2024
+5588450,364,189908,2025-05-25 17:00:00,"Bournemouth - Leicester City, 2-0",38,1659,1631,Bournemouth,Leicester City,2,0,Played,575112,584511,364,2024
+5588085,364,189908,2024-08-17 16:00:00,"Nottingham Forest - Bournemouth, 1-1",1,1642,1659,Nottingham Forest,Bournemouth,1,1,Played,753313,575112,364,2024
+5588098,364,189908,2024-08-24 16:00:00,"Tottenham Hotspur - Everton, 4-0",2,1624,1623,Tottenham Hotspur,Everton,4,0,Played,61546,8880,364,2024
+5588128,364,189908,2024-09-21 16:00:00,"Tottenham Hotspur - Brentford, 3-1",5,1624,1669,Tottenham Hotspur,Brentford,3,1,Played,61546,135095,364,2024
+5588133,364,189908,2024-09-28 16:00:00,"Chelsea - Brighton, 4-2",6,1610,1651,Chelsea,Brighton,4,2,Played,685043,18554,364,2024
+5588208,364,189908,2024-11-30 18:30:00,"West Ham United - Arsenal, 2-5",13,1633,1609,West Ham United,Arsenal,2,5,Played,134152,743345,364,2024
+5588245,364,189908,2024-12-21 16:00:00,"Ipswich Town - Newcastle United, 0-4",17,1634,1613,Ipswich Town,Newcastle United,0,4,Played,447789,8934,364,2024
+5588352,364,189908,2025-03-09 15:00:00,"Chelsea - Leicester City, 1-0",28,1610,1631,Chelsea,Leicester City,1,0,Played,685043,584511,364,2024
+5588379,364,189908,2025-04-02 21:00:00,"Liverpool - Everton, 1-0",30,1612,1623,Liverpool,Everton,1,0,Played,753720,8235,364,2024
+5588453,364,189908,2025-05-25 17:00:00,"Liverpool - Crystal Palace, 1-1",38,1612,1628,Liverpool,Crystal Palace,1,1,Played,753720,753418,364,2024
+5588147,364,189908,2024-10-05 16:00:00,"Leicester City - Bournemouth, 1-0",7,1631,1659,Leicester City,Bournemouth,1,0,Played,399504,575112,364,2024
+5588169,364,189908,2024-10-27 15:00:00,"West Ham United - Manchester United, 2-1",9,1633,1611,West Ham United,Manchester United,2,1,Played,134152,221070,364,2024
+5588297,364,189908,2025-01-18 13:30:00,"Newcastle United - Bournemouth, 1-4",22,1613,1659,Newcastle United,Bournemouth,1,4,Played,8934,575112,364,2024
+5588313,364,189908,2025-02-03 21:00:00,"Chelsea - West Ham United, 2-1",24,1610,1633,Chelsea,West Ham United,2,1,Played,685043,51607,364,2024
+5588327,364,189908,2025-02-15 16:00:00,"Southampton - Bournemouth, 1-3",25,1619,1659,Southampton,Bournemouth,1,3,Played,753322,575112,364,2024
+5588446,364,189908,2025-05-18 13:00:00,"Everton - Southampton, 2-0",37,1623,1619,Everton,Southampton,2,0,Played,8235,789395,364,2024
+5588111,364,189908,2024-09-14 21:00:00,"Bournemouth - Chelsea, 0-1",4,1659,1610,Bournemouth,Chelsea,0,1,Played,575112,685043,364,2024
+5588152,364,189908,2024-10-19 16:15:00,"Ipswich Town - Everton, 0-2",8,1634,1623,Ipswich Town,Everton,0,2,Played,447789,8880,364,2024
+5588173,364,189908,2024-11-02 16:00:00,"Liverpool - Brighton, 2-1",10,1612,1651,Liverpool,Brighton,2,1,Played,753720,18554,364,2024
+5588215,364,189908,2024-12-03 20:30:00,"Ipswich Town - Crystal Palace, 0-1",14,1634,1628,Ipswich Town,Crystal Palace,0,1,Played,447789,753418,364,2024
+5588218,364,189908,2024-12-04 20:30:00,"Newcastle United - Liverpool, 3-3",14,1613,1612,Newcastle United,Liverpool,3,3,Played,8934,753720,364,2024
+5588248,364,189908,2024-12-22 17:30:00,"Tottenham Hotspur - Liverpool, 3-6",17,1624,1612,Tottenham Hotspur,Liverpool,3,6,Played,61546,753720,364,2024
+5588265,364,189908,2024-12-30 20:45:00,"Ipswich Town - Chelsea, 2-0",19,1634,1610,Ipswich Town,Chelsea,2,0,Played,447789,685043,364,2024
+5588398,364,189908,2025-04-12 16:00:00,"Southampton - Aston Villa, 0-3",32,1619,1614,Southampton,Aston Villa,0,3,Played,789395,3265,364,2024
+5588420,364,189908,2025-05-03 18:30:00,"Arsenal - Bournemouth, 1-2",35,1609,1659,Arsenal,Bournemouth,1,2,Played,743345,575112,364,2024
+5588457,364,189908,2025-05-25 17:00:00,"Southampton - Arsenal, 1-2",38,1619,1609,Southampton,Arsenal,1,2,Played,789395,743345,364,2024
+5588454,364,189908,2025-05-25 17:00:00,"Manchester United - Aston Villa, 2-0",38,1611,1614,Manchester United,Aston Villa,2,0,Played,743349,3265,364,2024
+5588090,364,189908,2024-08-24 18:30:00,"Aston Villa - Arsenal, 0-2",2,1614,1609,Aston Villa,Arsenal,0,2,Played,3265,743345,364,2024
+5588110,364,189908,2024-09-14 18:30:00,"Aston Villa - Everton, 3-2",4,1614,1623,Aston Villa,Everton,3,2,Played,3265,8880,364,2024
+5588164,364,189908,2024-10-27 15:00:00,"Chelsea - Newcastle United, 2-1",9,1610,1613,Chelsea,Newcastle United,2,1,Played,685043,8934,364,2024
+5588207,364,189908,2024-12-01 14:30:00,"Tottenham Hotspur - Fulham, 1-1",13,1624,1616,Tottenham Hotspur,Fulham,1,1,Played,61546,71037,364,2024
+5588250,364,189908,2024-12-27 21:15:00,"Arsenal - Ipswich Town, 1-0",18,1609,1634,Arsenal,Ipswich Town,1,0,Played,743345,447789,364,2024
+5588393,364,189908,2025-04-13 15:00:00,"Chelsea - Ipswich Town, 2-2",32,1610,1634,Chelsea,Ipswich Town,2,2,Played,685043,447789,364,2024
+5588391,364,189908,2025-04-14 21:00:00,"Bournemouth - Fulham, 1-0",32,1659,1616,Bournemouth,Fulham,1,0,Played,575112,71037,364,2024
+5588419,364,189908,2025-04-26 16:00:00,"Wolverhampton Wanderers - Leicester City, 3-0",34,1629,1631,Wolverhampton Wanderers,Leicester City,3,0,Played,70077,1185672,364,2024
+5588176,364,189908,2024-11-02 16:00:00,"Nottingham Forest - West Ham United, 3-0",10,1642,1633,Nottingham Forest,West Ham United,3,0,Played,753313,134152,364,2024
+5588224,364,189908,2024-12-08 15:00:00,"Fulham - Arsenal, 1-1",15,1616,1609,Fulham,Arsenal,1,1,Played,71037,743345,364,2024
+5588296,364,189908,2025-01-19 15:00:00,"Manchester United - Brighton, 1-3",22,1611,1651,Manchester United,Brighton,1,3,Played,743349,18554,364,2024
+5588415,364,189908,2025-04-22 21:00:00,"Manchester City - Aston Villa, 2-1",34,1625,1614,Manchester City,Aston Villa,2,1,Played,267136,3265,364,2024
+5588437,364,189908,2025-05-10 16:00:00,"Southampton - Manchester City, 0-0",36,1619,1625,Southampton,Manchester City,0,0,Played,789395,267136,364,2024
+5588096,364,189908,2024-08-24 16:00:00,"Manchester City - Ipswich Town, 4-1",2,1625,1634,Manchester City,Ipswich Town,4,1,Played,267136,447789,364,2024
+5588122,364,189908,2024-09-21 18:30:00,"Crystal Palace - Manchester United, 0-0",5,1628,1611,Crystal Palace,Manchester United,0,0,Played,753418,221070,364,2024
+5588162,364,189908,2024-10-26 16:00:00,"Brentford - Ipswich Town, 4-3",9,1669,1634,Brentford,Ipswich Town,4,3,Played,135095,447789,364,2024
+5588242,364,189908,2024-12-21 18:30:00,"Crystal Palace - Arsenal, 1-5",17,1628,1609,Crystal Palace,Arsenal,1,5,Played,753418,743345,364,2024
+5588292,364,189908,2025-01-20 21:00:00,"Chelsea - Wolverhampton Wanderers, 3-1",22,1610,1629,Chelsea,Wolverhampton Wanderers,3,1,Played,685043,70077,364,2024
+5588418,364,189908,2025-04-26 16:00:00,"Southampton - Fulham, 1-2",34,1619,1616,Southampton,Fulham,1,2,Played,789395,71037,364,2024
+5588456,364,189908,2025-05-25 17:00:00,"Nottingham Forest - Chelsea, 0-1",38,1642,1610,Nottingham Forest,Chelsea,0,1,Played,753313,685043,364,2024
+5588081,364,189908,2024-08-17 13:30:00,"Ipswich Town - Liverpool, 0-2",1,1634,1612,Ipswich Town,Liverpool,0,2,Played,447789,753720,364,2024
+5588127,364,189908,2024-09-21 16:00:00,"Southampton - Ipswich Town, 1-1",5,1619,1634,Southampton,Ipswich Town,1,1,Played,641939,447789,364,2024
+5588149,364,189908,2024-10-05 16:00:00,"West Ham United - Ipswich Town, 4-1",7,1633,1634,West Ham United,Ipswich Town,4,1,Played,134152,447789,364,2024
+5588243,364,189908,2024-12-22 15:00:00,"Everton - Chelsea, 0-0",17,1623,1610,Everton,Chelsea,0,0,Played,8880,685043,364,2024
+5588385,364,189908,2025-04-05 16:00:00,"Ipswich Town - Wolverhampton Wanderers, 1-2",31,1634,1629,Ipswich Town,Wolverhampton Wanderers,1,2,Played,447789,70077,364,2024
+5588104,364,189908,2024-08-31 16:00:00,"Ipswich Town - Fulham, 1-1",3,1634,1616,Ipswich Town,Fulham,1,1,Played,447789,71037,364,2024
+5588120,364,189908,2024-09-21 16:00:00,"Aston Villa - Wolverhampton Wanderers, 3-1",5,1614,1629,Aston Villa,Wolverhampton Wanderers,3,1,Played,3265,857736,364,2024
+5588166,364,189908,2024-10-26 18:30:00,"Everton - Fulham, 1-1",9,1623,1616,Everton,Fulham,1,1,Played,8880,71037,364,2024
+5588363,364,189908,2025-03-15 16:00:00,"Everton - West Ham United, 1-1",29,1623,1633,Everton,West Ham United,1,1,Played,8235,51607,364,2024
+5588372,364,189908,2025-04-02 20:45:00,"Brighton - Aston Villa, 0-3",30,1651,1614,Brighton,Aston Villa,0,3,Played,18554,3265,364,2024
+5588386,364,189908,2025-04-07 21:00:00,"Leicester City - Newcastle United, 0-3",31,1631,1613,Leicester City,Newcastle United,0,3,Played,1185672,8934,364,2024
+5588422,364,189908,2025-05-04 15:00:00,"Brentford - Manchester United, 4-3",35,1669,1611,Brentford,Manchester United,4,3,Played,135095,743349,364,2024
+5588438,364,189908,2025-05-11 15:15:00,"Tottenham Hotspur - Crystal Palace, 0-2",36,1624,1628,Tottenham Hotspur,Crystal Palace,0,2,Played,61546,753418,364,2024
+5588087,364,189908,2024-08-18 15:00:00,"Brentford - Crystal Palace, 2-1",1,1669,1628,Brentford,Crystal Palace,2,1,Played,135095,753418,364,2024
+5588114,364,189908,2024-09-14 16:00:00,"Fulham - West Ham United, 1-1",4,1616,1633,Fulham,West Ham United,1,1,Played,71037,134152,364,2024
+5588252,364,189908,2024-12-27 20:30:00,"Brighton - Brentford, 0-0",18,1651,1669,Brighton,Brentford,0,0,Played,18554,135095,364,2024
+5588261,364,189908,2025-01-01 18:30:00,"Brentford - Arsenal, 1-3",19,1669,1609,Brentford,Arsenal,1,3,Played,135095,743345,364,2024
+5588305,364,189908,2025-01-25 16:00:00,"Liverpool - Ipswich Town, 4-1",23,1612,1634,Liverpool,Ipswich Town,4,1,Played,753720,447789,364,2024
+5588388,364,189908,2025-04-06 15:00:00,"Tottenham Hotspur - Southampton, 3-1",31,1624,1619,Tottenham Hotspur,Southampton,3,1,Played,61546,753322,364,2024
+5588094,364,189908,2024-08-24 16:00:00,"Fulham - Leicester City, 2-1",2,1616,1631,Fulham,Leicester City,2,1,Played,71037,399504,364,2024
+5588107,364,189908,2024-09-01 14:30:00,"Newcastle United - Tottenham Hotspur, 2-1",3,1613,1624,Newcastle United,Tottenham Hotspur,2,1,Played,8934,61546,364,2024
+5588154,364,189908,2024-10-19 16:00:00,"Manchester United - Brentford, 2-1",8,1611,1669,Manchester United,Brentford,2,1,Played,221070,135095,364,2024
+5588170,364,189908,2024-11-02 16:00:00,"Bournemouth - Manchester City, 2-1",10,1659,1625,Bournemouth,Manchester City,2,1,Played,575112,267136,364,2024
+5588332,364,189908,2025-02-22 16:00:00,"Bournemouth - Wolverhampton Wanderers, 0-1",26,1659,1629,Bournemouth,Wolverhampton Wanderers,0,1,Played,575112,70077,364,2024
+5588088,364,189908,2024-08-18 17:30:00,"Chelsea - Manchester City, 0-2",1,1610,1625,Chelsea,Manchester City,0,2,Played,685043,267136,364,2024
+5588204,364,189908,2024-12-01 17:00:00,"Liverpool - Manchester City, 2-0",13,1612,1625,Liverpool,Manchester City,2,0,Played,753720,267136,364,2024
+5588231,364,189908,2024-12-16 21:00:00,"Bournemouth - West Ham United, 1-1",16,1659,1633,Bournemouth,West Ham United,1,1,Played,575112,134152,364,2024
+5588299,364,189908,2025-01-18 16:00:00,"West Ham United - Crystal Palace, 0-2",22,1633,1628,West Ham United,Crystal Palace,0,2,Played,51607,753418,364,2024
+5588378,364,189908,2025-04-02 20:45:00,"Southampton - Crystal Palace, 1-1",30,1619,1628,Southampton,Crystal Palace,1,1,Played,753322,753418,364,2024
+5588099,364,189908,2024-08-25 15:00:00,"Wolverhampton Wanderers - Chelsea, 2-6",2,1629,1610,Wolverhampton Wanderers,Chelsea,2,6,Played,857736,685043,364,2024
+5588139,364,189908,2024-09-28 18:30:00,"Wolverhampton Wanderers - Liverpool, 1-2",6,1629,1612,Wolverhampton Wanderers,Liverpool,1,2,Played,857736,753720,364,2024
+5588308,364,189908,2025-01-26 15:00:00,"Tottenham Hotspur - Leicester City, 1-2",23,1624,1631,Tottenham Hotspur,Leicester City,1,2,Played,61546,584511,364,2024
+5588320,364,189908,2025-02-15 16:00:00,"Aston Villa - Ipswich Town, 1-1",25,1614,1634,Aston Villa,Ipswich Town,1,1,Played,3265,447789,364,2024
+5588345,364,189908,2025-02-25 20:30:00,"Wolverhampton Wanderers - Fulham, 1-2",27,1629,1616,Wolverhampton Wanderers,Fulham,1,2,Played,70077,71037,364,2024
+5588429,364,189908,2025-05-04 15:00:00,"West Ham United - Tottenham Hotspur, 1-1",35,1633,1624,West Ham United,Tottenham Hotspur,1,1,Played,51607,61546,364,2024
+5588194,364,189908,2024-11-23 16:00:00,"Fulham - Wolverhampton Wanderers, 1-4",12,1616,1629,Fulham,Wolverhampton Wanderers,1,4,Played,71037,857736,364,2024
+5588211,364,189908,2024-12-04 21:15:00,"Aston Villa - Brentford, 3-1",14,1614,1669,Aston Villa,Brentford,3,1,Played,3265,135095,364,2024
+5588272,364,189908,2025-01-04 18:30:00,"Brighton - Arsenal, 1-1",20,1651,1609,Brighton,Arsenal,1,1,Played,18554,743345,364,2024
+5588359,364,189908,2025-03-08 21:00:00,"Wolverhampton Wanderers - Everton, 1-1",28,1629,1623,Wolverhampton Wanderers,Everton,1,1,Played,70077,8235,364,2024
+5588365,364,189908,2025-03-15 16:00:00,"Ipswich Town - Nottingham Forest, 2-4",29,1634,1642,Ipswich Town,Nottingham Forest,2,4,Played,447789,753313,364,2024
+5588374,364,189908,2025-04-01 20:45:00,"Wolverhampton Wanderers - West Ham United, 1-0",30,1629,1633,Wolverhampton Wanderers,West Ham United,1,0,Played,70077,51607,364,2024
+5588199,364,189908,2024-11-24 15:00:00,"Southampton - Liverpool, 2-3",12,1619,1612,Southampton,Liverpool,2,3,Played,641939,753720,364,2024
+5588212,364,189908,2024-12-05 21:15:00,"Bournemouth - Tottenham Hotspur, 1-0",14,1659,1624,Bournemouth,Tottenham Hotspur,1,0,Played,575112,61546,364,2024
+5588234,364,189908,2024-12-14 16:00:00,"Liverpool - Fulham, 2-2",16,1612,1616,Liverpool,Fulham,2,2,Played,753720,71037,364,2024
+5588354,364,189908,2025-03-08 16:00:00,"Liverpool - Southampton, 3-1",28,1612,1619,Liverpool,Southampton,3,1,Played,753720,753322,364,2024
+5588451,364,189908,2025-05-25 17:00:00,"Fulham - Manchester City, 0-2",38,1616,1625,Fulham,Manchester City,0,2,Played,71037,267136,364,2024

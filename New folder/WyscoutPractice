@@ -1,0 +1,9 @@
+import json
+import pandas as pd
+import numpy as np
+import os
+
+file_path = os.path.join("event_data", "events.json")
+
+with open(file_path, encoding="utf-8") as f:
+events = json.load

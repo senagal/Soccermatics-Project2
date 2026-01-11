@@ -12,7 +12,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, roc_auc_score
-
 # ------------------------------
 # 1. Load dataset
 # ------------------------------
@@ -29,39 +28,69 @@ Y_LEFT, Y_RIGHT = 37, 63
 # 3. Feature engineering
 # ------------------------------
 
-# --- Distance to goal (end location) ---
+# End location
 df["dist_to_goal_end"] = np.sqrt(
     (X_GOAL - df["endX"]) ** 2 +
     (Y_CENTER - df["endY"]) ** 2
 )
 df["log_dist_to_goal_end"] = np.log1p(df["dist_to_goal_end"])
 
-# --- Goal angle (end location) ---
-angle_left = np.arctan2(Y_LEFT - df["endY"], X_GOAL - df["endX"])
-angle_right = np.arctan2(Y_RIGHT - df["endY"], X_GOAL - df["endX"])
-df["goal_angle_end"] = np.abs(angle_right - angle_left)
+# Start location
+df["dist_to_goal_start"] = np.sqrt(
+    (X_GOAL - df["startX"]) ** 2 +
+    (Y_CENTER - df["startY"]) ** 2
+)
+df["log_dist_to_goal_start"] = np.log1p(df["dist_to_goal_start"])
 
-# --- Goal-weighted centrality (end location) ---
+
+# ===== GOAL ANGLE =====
+
+# Start location
+angle_left_start = np.arctan2(Y_LEFT - df["startY"], X_GOAL - df["startX"])
+angle_right_start = np.arctan2(Y_RIGHT - df["startY"], X_GOAL - df["startX"])
+df["goal_angle_start"] = np.abs(angle_right_start - angle_left_start)
+
+# End location
+angle_left_end = np.arctan2(Y_LEFT - df["endY"], X_GOAL - df["endX"])
+angle_right_end = np.arctan2(Y_RIGHT - df["endY"], X_GOAL - df["endX"])
+df["goal_angle_end"] = np.abs(angle_right_end - angle_left_end)
+
+
+# ===== GOAL-WEIGHTED CENTRALITY =====
+
+# Start location
+df["goal_weighted_centrality_start"] = (
+    (1 - np.abs(df["startY"] - Y_CENTER) / Y_CENTER) *
+    (df["startX"] / X_GOAL)
+)
+
+# End location
 df["goal_weighted_centrality_end"] = (
     (1 - np.abs(df["endY"] - Y_CENTER) / Y_CENTER) *
     (df["endX"] / X_GOAL)
 )
 
-# --- Pass direction (start → end) ---
+
+# ===== PASS DIRECTION (ONLY ONCE) =====
 df["pass_direction"] = np.arctan2(
     df["endY"] - df["startY"],
     df["endX"] - df["startX"]
 )
 
+
 # ------------------------------
 # 4. Features & target
 # ------------------------------
 features = [
+    "log_dist_to_goal_start",
+    "goal_angle_start",
+    "goal_weighted_centrality_start",
     "log_dist_to_goal_end",
     "goal_angle_end",
     "goal_weighted_centrality_end",
     "pass_direction",
 ]
+
 
 X = df[features]
 y = df["becameShot"].astype(int)
